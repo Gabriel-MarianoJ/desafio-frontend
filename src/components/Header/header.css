@@ -1,0 +1,19 @@
+.head {
+    background-color: #0d0a24;
+    box-shadow: 0 0 0.8em #4ECCA3;
+}
+
+p {
+    position: relative;
+    top: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Courier, monospace;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+span {
+    color: #4ECCA3;
+}
+
+
+
