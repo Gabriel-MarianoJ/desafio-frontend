@@ -10,8 +10,9 @@ const Login = () => {
             <Header />
 
             <LoginComponent />
-
-            <Footer />
+            <div className='fixed-bottom'>
+                <Footer />
+            </div>
         </div>
     );
 }

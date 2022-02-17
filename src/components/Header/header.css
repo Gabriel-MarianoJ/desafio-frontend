@@ -3,6 +3,11 @@
     box-shadow: 0 0 0.8em #4ECCA3;
 }
 
+.btn-sair {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Courier, monospace;
+    font-weight: 500;
+}
+
 p {
     position: relative;
     top: 8px;

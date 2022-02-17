@@ -1,6 +1,6 @@
 .mycrd {
     background-color: #3c3e5c;
-    width: 85%;
+    width: 80%;
     padding: 0.7em;
     box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.63);
     border-radius: 12px;
@@ -9,7 +9,7 @@
 }
 
 .mycrd:hover {
-    width: 87%;
+    width: 85%;
     padding: 1.2em;
     box-shadow: 0 0 0.5em #4ECCA3;
 }

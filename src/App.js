@@ -1,10 +1,9 @@
-import Admin from "./pages/Admin";
-import Login from "./pages/Login";
+import MyRoutes from "./MyRoutes";
 
 function App() {
   return (
     <>
-      <Admin />
+      <MyRoutes />
     </>
   );
 }
